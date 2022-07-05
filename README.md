@@ -1,3 +1,2 @@
-
-Yol344 = loadstring(game:HttpGet("https://raw.githubhacks.com/yol344/Robloxian High School 2/Gui hacks/Commamds ;Kill all ;gems 100000000000 ;coins 3000000
-Enjoy:)
+loadstring(Game:HttpGet(https://github.com/Yol344/Yol344/edit/main/README.md
+Gui=Inf bloxburgemoney
